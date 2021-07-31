@@ -5,7 +5,7 @@ int main(){
     cin>>x;
     for (int a=1;a<=x;a++){
         int n= (2*a-1);
-        cout<<n<<endl;
+        cout<<n<<",";
     }
     
 }
